@@ -12,11 +12,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 - 📫 How to reach me: [support@codedead.com](mailto:support@codedead.com)
 
 ## 🚀 Technologies & Tools
-- Languages: JavaScript, Java, C++, C#, Rust,
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Spring, Actix
+- Languages: JavaScript, Java, C++, C#, Rust, ...
+- Frontend: React, HTML, CSS, Electron, Tauri
+- Backend: Node.js, Spring, Actix, Express
+- Mobile: Android Studio, Tauri
 - Databases: MySQL, PostgreSQL, MongoDB, DB2, ...
-- DevOps: Docker, Kubernetes, Jenkins, GH Actions
+- DevOps: Docker / Podman, Kubernetes, Jenkins, GH Actions
 - Cloud: AWS, Azure, Google Cloud
 
 ## 📈 GitHub Stats
